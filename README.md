@@ -17,6 +17,7 @@ This frontend-only project focuses on clean UI, smooth interactions, and product
 - Fast loading and smooth navigation
 
 ---
+
 ## 🛠️ Tech Stack
 
 - ⚛️ React.js (with hooks and JSX)
